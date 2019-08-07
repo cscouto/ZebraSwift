@@ -7,6 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ISbtSdkApi.h"
+#import "ISbtSdkApiDelegate.h"
+#import "FirmwareUpdateEvent.h"
+#import "RMDAttributes.h"
+#import "SbtScannerInfo.h"
+#import "SbtSdkDefs.h"
+#import "SbtSdkFactory.h"
 
 //! Project version number for ZebraSwift.
 FOUNDATION_EXPORT double ZebraSwiftVersionNumber;
